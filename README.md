@@ -151,7 +151,7 @@ El proyecto está diseñado para soportar reglas como:
 * Presencia de keywords críticas
 * Vendedores con actividad anómala
 
-*(La implementación concreta de Elastalert2 se documenta a nivel conceptual según los requisitos del assignment).*
+*(La implementación concreta de Elastalert2 no la he realizado).*
 
 ---
 

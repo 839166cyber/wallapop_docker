@@ -12,7 +12,7 @@ Mapa geográfico que muestra la localización de los anuncios de motocicletas en
 
 ### ⏱️ Volumen de anuncios en el tiempo
 Evolución temporal del número de anuncios publicados. Esta visualización permite identificar picos de actividad inusuales que pueden estar asociados a comportamientos sospechosos.
-![Volumen de anuncios](images/Volumen_anuncio.png)
+![Volumen de anuncios](Volumen_anuncio.png)
 
 ### 🔑 Palabras clave sospechosas
 Frecuencia de aparición de palabras clave consideradas sospechosas (por ejemplo: “urgente”, “sin papeles”, “despiece”). Estas señales textuales contribuyen al cálculo del riesgo de cada anuncio.

@@ -173,6 +173,5 @@ Proyecto desarrollado como parte del:
 Curso: *Network Monitoring*
 
 El sistema replica el diseño de pipelines reales usados en entornos SOC/NOC para análisis de marketplaces.
-<img width="1072" height="524" alt="image" src="https://github.com/user-attachments/assets/78460b3a-7934-4562-bc6c-da00f7b6492c" />
 
 ---

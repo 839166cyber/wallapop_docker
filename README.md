@@ -1,4 +1,4 @@
-# Wallapop_docker
+# Wallapop Docker
 
 Este proyecto implementa un **pipeline de monitorización y detección de anuncios sospechosos en Wallapop**, centrado en la categoría **Motocicletas**, como parte del **Assignment 2 del curso de Network Monitoring (NM)**.
 
